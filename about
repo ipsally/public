@@ -9,10 +9,10 @@
 <body>
     <div id="nav">
         <span class="navbar">
-            <a href="ipsally.github.io/">Home</a>
+            <a href="/index.html">Home</a>
         </span>
         <span class="navbar">
-            <a href="ipsally.github.io/about">About</a>
+            <a href="/about">About</a>
         </span>
         <span class="navbar">
             <a href="\CV">CV</a>
