@@ -9,11 +9,11 @@
 <body>
     <div id="nav">
         <span class="navbar">
-            <a href="C:\Users\Sally\OneDrive\Udemy notes\The Web Developer Bootcamp\github\index.html">Home</a>
+            <a href="ipsally.github.io/">Home</a>
         </span>
         <span class="navbar">
-                <a href="C:\Users\Sally\OneDrive\Udemy notes\The Web Developer Bootcamp\github\About">About</a>
-            </span>
+            <a href="ipsally.github.io/about">About</a>
+        </span>
         <span class="navbar">
             <a href="\CV">CV</a>
         </span>
