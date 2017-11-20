@@ -1,1 +1,52 @@
 
+body{
+    font-size: 12px;
+    font-family: segoe UI;
+    padding: 50px 10% 10% 10%;
+    width: 80%;
+    max-width: 1200px;
+    position: absolute;
+    margin: 0 0 100px;
+    height: 80%;
+    overflow-y: scroll;
+}
+
+
+.navbar{
+    text-align: center;
+    text-anchor: middle;
+    background: gray;
+    font-size: 22px;
+    font-family: sans-serif;
+    padding: 10px 60px;
+}
+
+.container{
+    margin: 50px auto;
+}
+
+a:link {
+    text-decoration: none;
+    color: darkgray;
+}
+a:visited {
+    color: rgb(99, 98, 98);
+}
+
+.navbar:nth-of-type(odd){
+    background: lightgray;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    border-top: 1px gray solid;
+    padding-top: 10px;
+    width: 80%;
+    margin: 0 auto;
+    height: 50px;
+}
+
+footer a {
+    padding: 10px;
+}
