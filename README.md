@@ -1,2 +1,2 @@
 # public
-please where i put stuff
+place where i put stuff
