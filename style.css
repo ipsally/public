@@ -34,6 +34,17 @@ section:last-of-type {
     border-radius: 100%;
     background-color: lightgray;
 }
+.fa:hover {
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 1em;
+    width: 1em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 100%;
+    background-color:white;
+}
+
 
 .title > p {
     padding-top: 120px;
