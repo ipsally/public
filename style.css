@@ -1,0 +1,50 @@
+body {
+    width: 60%;
+    max-width: 800px;
+    min-width: 500px;
+    margin: 0 auto;
+}
+
+div.nav > p {
+    float: left;
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: 1px solid lightgray;
+    text-transform: uppercase;
+}
+div.nav > p:last-child {
+    float: right;
+    margin: 0 0 0 -15px;
+    border: 0;
+}
+.fa {
+    margin: 0 5px;
+    padding: 5px;
+    font-size: 1em;
+    width: 1em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 100%;
+    border: 0px solid lightgray;
+    
+}
+
+div.title > p {
+    padding-top: 120px;
+    text-align: right; 
+    font-size: 1.5em;
+    /* text-transform: uppercase; */
+}
+
+div.body {
+    text-align: justify;
+}
+
+a:link {
+    text-decoration: none;
+    color: #999999;
+}
+
+a:visited {
+    color: #999999;
+}
