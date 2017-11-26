@@ -5,10 +5,16 @@ body {
     margin: 0 auto;
     font-family: 'Abel', sans-serif;    
 }
+section {
+    margin:5px;
+}
+section:last-of-type {
+    margin-bottom: 5em;
+}
 
 .nav > p {
     float: left;
-    margin: 5px 5px;
+    margin: 0 5px;
     padding: 5px 10px;
     border: 1px solid lightgray;
     text-transform: uppercase;
@@ -35,6 +41,7 @@ body {
     font-size: 2.0em;
     text-transform: lowercase;
 }
+.title
 
 .home {
     text-align: justify;
@@ -46,5 +53,6 @@ a:link {
 }
 
 a:visited {
+    text-decoration: none;
     color: #999999;
 }
