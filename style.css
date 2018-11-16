@@ -16,6 +16,18 @@ ul {
     margin-block-end: 0;
 }
 
+a {
+    color: rgb(237, 125, 49)
+}
+
+a:hover {
+    color: rgb(197, 90, 17);
+}
+
+a:visited {
+    color: rgb(197, 90, 17);
+}
+
 .container {
     width: 700px;
     margin: 15px auto;
