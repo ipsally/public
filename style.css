@@ -28,6 +28,10 @@ a:visited {
     color: rgb(197, 90, 17);
 }
 
+li {
+    margin-bottom: 0.3em;
+}
+
 .container {
     width: 700px;
     margin: 15px auto;
@@ -68,6 +72,8 @@ p.contact {
     float: left;
     width: 25%;
     justify-content: space-between;
+    margin: 0;
+    margin-bottom: 5px;
 }
 
 td.date {
