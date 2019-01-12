@@ -34,6 +34,7 @@ li {
 
 .container {
     width: 700px;
+    min-width: 700px;
     margin: 15px auto;
 }
 .column {
@@ -50,7 +51,7 @@ li {
     width: 125px;
     border: 1px solid rgb(237, 125, 49);
     background-color: rgb(251, 229, 213);
-    font-size: 0.85em;
+    font-size: 85%;
 }
 
 .skill-type {
