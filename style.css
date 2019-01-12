@@ -53,8 +53,10 @@ li {
     font-size: 0.85em;
 }
 
-.skills th {
+.skill-type {
     padding-top: 0.5em;
+    text-align: center;
+    font-weight: 700;
 }
 
 .other {
